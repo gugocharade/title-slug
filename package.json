@@ -1,0 +1,24 @@
+{
+  "name": "title-slug",
+  "version": "1.0.0",
+  "description": "The simple and best way to generate a unique slug for a title, to use it as URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slug",
+    "title slug",
+    "slugger",
+    "slugify"
+  ],
+  "author": {
+    "name": "abdelaziz haouache",
+    "email": "gugocharade@gmail.com"
+  },
+  "repository": "https://github.com/gugocharade/title-slug",
+  "license": "MIT",
+  "dependencies": {
+    "imurmurhash": "^0.1.4"
+  }
+}
