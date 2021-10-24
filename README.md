@@ -16,7 +16,7 @@ $ npm install title-slug
 const titleSlug = require('title-slug');
 
 titleSlug('hello world');
-// hello-world-71fd
+// hello-world-vup0jf
 ```
 
 Even the same title will result in different slugs:
@@ -25,18 +25,18 @@ Even the same title will result in different slugs:
 const titleSlug = require('title-slug');
 
 titleSlug('hello world');
-// hello-world-33ec
+// hello-world-p8qml5
 
 titleSlug('hello world');
-// hello-world-9bc0
+// hello-world-da1v1q
 
 titleSlug('hello world');
-// hello-world-d721
+// hello-world-rq9p0c
 
 //// THE GENERATED SLUG WILL BE IN LOWER CASE ////
 
 titleSlug('HELLO world');
-//hello-world-cd11
+//hello-world-59dh3j
 ```
 
 # Donation

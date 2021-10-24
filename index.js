@@ -5,6 +5,6 @@ module.exports = (title) => {
     title + Date.now() + Math.random()
   )
     .result()
-    .toString(16)
-    .substr(-4)}`;
+    .toString(32)
+    .substr(-6)}`;
 };

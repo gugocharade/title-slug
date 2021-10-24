@@ -1,6 +1,6 @@
 {
   "name": "title-slug",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The simple and best way to generate a unique slug for a title, to use it as URL.",
   "main": "index.js",
   "scripts": {
